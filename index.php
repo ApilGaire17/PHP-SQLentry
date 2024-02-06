@@ -4,8 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <STYLE>
+        
+    </STYLE>
 </head>
-<body>
+<body><h1 align="CENTER">ENTER DETAILS</h1>
     <form action="addvalue.php" method="post" align="center">
 Enter first number:
 <input type="number"name="roll"><br>
